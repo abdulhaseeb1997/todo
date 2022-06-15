@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abdulhaseeb1997/todo.git/static/css/main.15081fb4.css",
+    "main.js": "/abdulhaseeb1997/todo.git/static/js/main.55d356e2.js",
+    "static/js/787.63e47474.chunk.js": "/abdulhaseeb1997/todo.git/static/js/787.63e47474.chunk.js",
+    "static/media/baloopaaji2-regular-webfont.woff": "/abdulhaseeb1997/todo.git/static/media/baloopaaji2-regular-webfont.6ee69e188829bb6058e9.woff",
+    "static/media/baloopaaji2-regular-webfont.woff2": "/abdulhaseeb1997/todo.git/static/media/baloopaaji2-regular-webfont.02d4c6e5ab2a27544ab2.woff2",
+    "static/media/logo.svg": "/abdulhaseeb1997/todo.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/delete.svg": "/abdulhaseeb1997/todo.git/static/media/delete.7c228be695c11f912732b47784104350.svg",
+    "index.html": "/abdulhaseeb1997/todo.git/index.html",
+    "static/media/revert.svg": "/abdulhaseeb1997/todo.git/static/media/revert.74d214422cba601d0914891eccdbe4ef.svg",
+    "static/media/plus.svg": "/abdulhaseeb1997/todo.git/static/media/plus.19bbb341fb5456e964a1569924f69873.svg",
+    "static/media/tick-green.svg": "/abdulhaseeb1997/todo.git/static/media/tick-green.b01db653d28ca6c03db027cb8c88498d.svg",
+    "main.15081fb4.css.map": "/abdulhaseeb1997/todo.git/static/css/main.15081fb4.css.map",
+    "main.55d356e2.js.map": "/abdulhaseeb1997/todo.git/static/js/main.55d356e2.js.map",
+    "787.63e47474.chunk.js.map": "/abdulhaseeb1997/todo.git/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15081fb4.css",
+    "static/js/main.55d356e2.js"
+  ]
+}
